@@ -132,6 +132,8 @@ python tests/test_text_chunking.py
 - Python 3.8+
 - 本地大语言模型服务
 - 本地文本嵌入模型服务
+注意：本项目基于xinference实现本地化，或者建议使用硅基流动等兼容openai服务。
+硅基流动可以去<https://cloud.siliconflow.cn/i/FcjKykMn>获取api key
 
 ## 注意事项
 
