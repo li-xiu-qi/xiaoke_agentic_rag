@@ -1,4 +1,4 @@
-# 小可智能RAG系统 (XiaoKe Agentic RAG)
+# Agentic RAG (XiaoKe Agentic RAG)
 
 一个具有反思能力的智能检索增强生成(RAG)系统，能够根据回答质量进行反思并重新搜索相关信息。
 
